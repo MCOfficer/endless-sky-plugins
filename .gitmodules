@@ -1,3 +1,6 @@
 [submodule "world-forge"]
 	path = world-forge
 	url = https://github.com/EndlessSkyCommunity/world-forge
+[submodule "endless-sky-high-dpi"]
+	path = endless-sky-high-dpi
+	url = https://github.com/endless-sky/endless-sky-high-dpi
