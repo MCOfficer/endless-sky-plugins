@@ -4,3 +4,6 @@
 [submodule "endless-sky-high-dpi"]
 	path = endless-sky-high-dpi
 	url = https://github.com/endless-sky/endless-sky-high-dpi
+[submodule "all-content-plugin"]
+	path = all-content-plugin
+	url = https://github.com/endless-sky/all-content-plugin
