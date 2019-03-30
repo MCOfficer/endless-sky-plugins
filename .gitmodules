@@ -1,0 +1,3 @@
+[submodule "world-forge"]
+	path = world-forge
+	url = https://github.com/EndlessSkyCommunity/world-forge
