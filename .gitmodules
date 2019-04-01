@@ -7,3 +7,6 @@
 [submodule "all-content-plugin"]
 	path = all-content-plugin
 	url = https://github.com/endless-sky/all-content-plugin
+[submodule "Sarcina"]
+	path = Sarcina
+	url = https://github.com/Darcman99/Sarcina.git
