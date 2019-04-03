@@ -1,0 +1,16 @@
+- name: Sarcina
+  version: 6891ccaf0be803d7dfb7e96fa5d46f318b9a8976
+  author: Darcman99
+  description: Basically a new game plus, adds the content that is the closest to vanilla quality into the game.
+- name: all-content-plugin
+  version: a2f7175d89ea205377b4cbf1e044e1d41187b202
+  author: Michael Zahniser
+  description: High-DPI graphics for Endless Sky.
+- name: endless-sky-high-dpi
+  version: eb7c808e1b19db24ab0cdf427d8303afc6f4ee36
+  author: Michael Zahniser
+  description: Endless Sky plugin giving the player access to all ships and outfits.
+- name: world-forge
+  version: e9dfb35a76298b376a0cddae62fb113941a903ec
+  author: Wrzlprnft, Amazinite
+  description: A plugin for Endless Sky that allows the player to access everything in the game in one place. Includes features that the all-content plugin does not such as the ability to boost your combat rating and change your friendly/hostile status with factions of the game without having to save-edit. Intended to help content creators test their plugins.
