@@ -10,3 +10,6 @@
 [submodule "Sarcina"]
 	path = Sarcina
 	url = https://github.com/Darcman99/Sarcina.git
+[submodule "Omnis"]
+	path = Omnis
+	url = https://github.com/Darcman99/Omnis.git
