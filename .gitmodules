@@ -13,3 +13,6 @@
 [submodule "Omnis"]
 	path = Omnis
 	url = https://github.com/Darcman99/Omnis.git
+[submodule "hand-to-hand-outfits"]
+	path = hand-to-hand-outfits
+	url = https://github.com/tmbutterworth/hand-to-hand-outfits.git

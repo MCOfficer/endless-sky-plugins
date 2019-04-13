@@ -18,3 +18,7 @@
   version: ca54d2aa51527c4d200b3f48dcecd9e94365a4d9
   author: Darcman99
   description: Yet another all-content plugin, this starts the player in a whole new galaxy which provides a gateway to and from the Milky Way.
+- name: hand-to-hand-outfits
+  version: 07b67252b7f34babc37960c1c132d99cfad854e3
+  author: tmbutterworth
+  description: Endless Sky Plug-in that adds additional hand-to-hand outfits.
