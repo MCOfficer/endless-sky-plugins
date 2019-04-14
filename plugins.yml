@@ -30,3 +30,7 @@
   version: v0.8.8
   author: comnom
   description: This plugin introduces two new factions northeast of Unfettered Hai territory. Each faction has their own unique ships and share a set of outfits. This is a work in progress, so check the website for updates!
+- name: The-Aben
+  version: b80f88485ab58461dd1878b858d64dab9077851a
+  author: Darcman99
+  description: A race of technocrats who currently sit at under T1. They buy exotic technology from visitors and will eventually aid the player with a salary, and gradually improving outfits.
