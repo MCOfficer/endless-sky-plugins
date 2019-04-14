@@ -28,3 +28,6 @@
 [submodule "The-Irm"]
 	path = The-Irm
 	url = https://github.com/Darcman99/The-Irm
+[submodule "The-Enclave"]
+	path = The-Enclave
+	url = https://github.com/Makuta-Miras/The-Enclave
