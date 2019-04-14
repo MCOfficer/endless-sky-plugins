@@ -26,3 +26,7 @@
   version: a28a28bd7f928df4365c37c7671ceb711bb7474f
   author: toilethinges
   description: The Adamas Project is a medium-sized plugin introducing two alien species and their regions of space, as well as some storyline involving the two.
+- name: Eternals
+  version: v0.8.8
+  author: comnom
+  description: This plugin introduces two new factions northeast of Unfettered Hai territory. Each faction has their own unique ships and share a set of outfits. This is a work in progress, so check the website for updates!

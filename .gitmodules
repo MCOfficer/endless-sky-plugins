@@ -19,3 +19,6 @@
 [submodule "Adamas-Project"]
 	path = Adamas-Project
 	url = https://github.com/toilethinges/Adamas-Project
+[submodule "Eternals"]
+	path = Eternals
+	url = https://github.com/comnom/Eternals
