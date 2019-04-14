@@ -34,3 +34,7 @@
   version: b80f88485ab58461dd1878b858d64dab9077851a
   author: Darcman99
   description: A race of technocrats who currently sit at under T1. They buy exotic technology from visitors and will eventually aid the player with a salary, and gradually improving outfits.
+- name: The-Irm
+  version: 20dc068f7575173cea09ca2c01b03dbab52b8ec7
+  author: Darcman99
+  description: A new poorly hidden race located just west of Hai space, very advanced but isolationist and controls one singular star system. There are no missions per-say, only an introduction of sorts.
