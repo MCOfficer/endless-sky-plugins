@@ -16,3 +16,6 @@
 [submodule "hand-to-hand-outfits"]
 	path = hand-to-hand-outfits
 	url = https://github.com/tmbutterworth/hand-to-hand-outfits.git
+[submodule "Adamas-Project"]
+	path = Adamas-Project
+	url = https://github.com/toilethinges/Adamas-Project
