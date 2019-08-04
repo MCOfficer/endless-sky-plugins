@@ -7,12 +7,6 @@
 [submodule "all-content-plugin"]
 	path = all-content-plugin
 	url = https://github.com/endless-sky/all-content-plugin
-[submodule "Sarcina"]
-	path = Sarcina
-	url = https://github.com/Darcman99/Sarcina.git
-[submodule "Omnis"]
-	path = Omnis
-	url = https://github.com/Darcman99/Omnis.git
 [submodule "hand-to-hand-outfits"]
 	path = hand-to-hand-outfits
 	url = https://github.com/tmbutterworth/hand-to-hand-outfits.git
@@ -22,12 +16,6 @@
 [submodule "Eternals"]
 	path = Eternals
 	url = https://github.com/comnom/Eternals
-[submodule "The-Aben"]
-	path = The-Aben
-	url = https://github.com/Darcman99/The-Aben
-[submodule "The-Irm"]
-	path = The-Irm
-	url = https://github.com/Darcman99/The-Irm
 [submodule "The-Enclave"]
 	path = The-Enclave
 	url = https://github.com/Makuta-Miras/The-Enclave
